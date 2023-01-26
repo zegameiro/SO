@@ -1,6 +1,4 @@
-# SO_A01
-
-## Primeiro Trabalho Prático da Cadeira de Sistemas Operativos 
+# Primeiro Trabalho Prático da Cadeira de Sistemas Operativos 
 Projeto realizado por:
 - José Gameiro (Nºmec 108840)
 - Diogo Falcão (Nºmec 108712)
