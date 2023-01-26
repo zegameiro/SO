@@ -8,4 +8,4 @@
 - Input / Output
 - Sistemas de ficheiros<br />
 
-Neste repositório encontram-se os slides das aulas teóricas, os guiões das aulas práticas bem como as suas resoluções que poderão estar incompletas, enunciados de exames e fichas de exercícios.
+Neste repositório encontram-se os slides das aulas teóricas, os guiões das aulas práticas bem como as suas resoluções que poderão estar incompletas, os guiões e as resoluções dos 2 trabalhos práticos propostos, enunciados de exames e fichas de exercícios.
