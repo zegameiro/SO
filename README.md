@@ -1,4 +1,4 @@
-# SO
+# Sistema Operativos
 ## Conteúdos 
 - Conceitos Introdutórios
 - Ambiente e interação de linha de comando
