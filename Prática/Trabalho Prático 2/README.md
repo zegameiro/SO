@@ -2,7 +2,7 @@
 Projeto realizado por:
 - Diogo Falcão (Nºmec 108712)
 - José Gameiro (Nºmec 108840)
-Nota: Ainda não atribuída
+Nota: 17
 
 ## Instruções de compilação e execução
 Para compilar o projeto basta ir à pasta src e executar o comando:
