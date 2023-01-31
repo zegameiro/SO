@@ -1,7 +1,7 @@
 # Segundo Trabalho Prático da cadeira de Sistemas Operativos
 Projeto realizado por:
 - Diogo Falcão (Nºmec 108712)
-- José Gameiro (Nºmec 108840)
+- José Gameiro (Nºmec 108840)<br />
 Nota: 17
 
 ## Instruções de compilação e execução
